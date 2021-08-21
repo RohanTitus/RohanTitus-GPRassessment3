@@ -7,8 +7,8 @@ public class PlatformController : MonoBehaviour {
     
     // Start is called before the first frame update
     void Start() {
-        if (transform.position.x < 0) speed = 2f;
-        else speed = -3.25f;
+        if (transform.position.x < 0) speed = 1.5f;
+        else speed = -2.4f;
     }
 
     // Update is called once per frame
