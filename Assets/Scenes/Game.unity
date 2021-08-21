@@ -480,6 +480,10 @@ MonoBehaviour:
   - {fileID: 5380559436725307510, guid: f31859cbdee0f45e19324cd3becb4cda, type: 3}
   - {fileID: 8247744363949125836, guid: f58d1d4161378439aa8c3b2f82ea8dac, type: 3}
   - {fileID: 4465932482707797177, guid: 0aef58e805bec4dccb6efbf1c2fa4181, type: 3}
+  platforms:
+  - {fileID: 6811698989279174278, guid: 667f117cb03ee406b86a0c0e70d9ec02, type: 3}
+  - {fileID: 4145016641285968653, guid: c8523b47fef2e4c729382a58807c16e2, type: 3}
+  - {fileID: 6155056291903694272, guid: 3d2deb5bbc2044937b53536a0d7d060e, type: 3}
 --- !u!1 &384182311
 GameObject:
   m_ObjectHideFlags: 0

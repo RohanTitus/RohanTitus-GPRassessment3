@@ -60,6 +60,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CarController.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Scripts\PlatformController.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/kasim/Documents/Projects/Frogger/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
